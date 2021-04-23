@@ -17,7 +17,7 @@ Android Github User build with MVVM Architechtures, Room, Coroutines
 ### Screenshot
 <span align="center">
  <hr>
- <p align="center"><img src="githubuser.png" alt="Github User Screenshot" width="850" height="500"></p>
+ <p align="center"><img src="githubuser.png" alt="Github User Screenshot" width="850" height="450"></p>
  <p align="center">Screenshot</p>
  <hr>
  </span>
