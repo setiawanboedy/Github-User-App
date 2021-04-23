@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Github User App</string>
+    <string name="github_user_app">Github User App</string>
+    <string name="setting">setting</string>
+    <string name="back_arrow">back arrow</string>
+    <string name="search">Search</string>
+    <string name="image">image</string>
+    <string name="name">Budi Setiawan</string>
+    <string name="company">Company :</string>
+    <string name="repository">Repository :</string>
+    <string name="follower">Follower : </string>
+    <string name="following">Following :</string>
+    <string name="github_user_detail">Github User Detail</string>
+    <string name="github_user">GitHub User</string>
+    <string name="date">26 March 2021</string>
+    <string name="unknown">Unknown</string>
+    <string name="check_connection">Please check your connection!</string>
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+    <string name="more">More</string>
+    <string name="result">Result:</string>
+    <string name="users">Users</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="_0">0</string>
+
+    <string name="no_result">Empty</string>
+    <string name="user_favorite">User Favorite</string>
+    <string name="setting_alarm">Setting Alarm</string>
+
+    <!--    alert-->
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="title">Delete All ?</string>
+    <string name="message">Are You sure want to delete All ?</string>
+    <string name="appwidget_text">Github User</string>
+    <string name="add_widget">Add widget</string>
+    <string name="no_data">No Data</string>
+
+</resources>

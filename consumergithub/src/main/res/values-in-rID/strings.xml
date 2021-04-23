@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pengguna Github</string>
+    <string name="back_arrow">Kembali</string>
+    <string name="search">Pencarian</string>
+    <string name="image">Gambar</string>
+    <string name="name">Budi Setiawan</string>
+    <string name="company">Perusahaan :</string>
+    <string name="repository">Gudang :</string>
+    <string name="follower">Penghikut : </string>
+    <string name="following">Mengikuti :</string>
+    <string name="github_user_detail">Detail Pengguna</string>
+    <string name="unknown">Tidak Diketahui</string>
+    <string name="check_connection">Periksa koneksi anda!</string>
+
+    <string name="tab_followers">Pengikut</string>
+    <string name="tab_following">Mengikuti</string>
+    <string name="more">Lengkap</string>
+    <string name="user_favorite">User Favorite</string>
+</resources>
